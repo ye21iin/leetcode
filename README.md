@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/ye21iin/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ye21iin/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ye21iin/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/ye21iin/leetcode/tree/master/3816-dna-pattern-recognition) |
