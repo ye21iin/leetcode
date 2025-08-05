@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/ye21iin/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ye21iin/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/ye21iin/leetcode/tree/master/3816-dna-pattern-recognition) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ye21iin/leetcode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ye21iin/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ye21iin/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
