@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/ye21iin/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ye21iin/leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/ye21iin/leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0627-swap-salary](https://github.com/ye21iin/leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/ye21iin/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/ye21iin/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/ye21iin/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
