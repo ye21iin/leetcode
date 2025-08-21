@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/ye21iin/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-salary](https://github.com/ye21iin/leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/ye21iin/leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/ye21iin/leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/ye21iin/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/ye21iin/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ye21iin/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
