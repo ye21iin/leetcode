@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/ye21iin/leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ye21iin/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ye21iin/leetcode/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/ye21iin/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/ye21iin/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/ye21iin/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ye21iin/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
