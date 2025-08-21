@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/ye21iin/leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ye21iin/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ye21iin/leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/ye21iin/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ye21iin/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-salary](https://github.com/ye21iin/leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/ye21iin/leetcode/tree/master/1153-product-sales-analysis-i) |
