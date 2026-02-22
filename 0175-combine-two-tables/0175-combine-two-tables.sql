@@ -1,8 +1,5 @@
-SELECT
-    FIRSTNAME,
-    LASTNAME,
-    CITY,
-    STATE
-FROM PERSON P
-LEFT OUTER JOIN ADDRESS A
-ON P.PERSONID = A.PERSONID
+select
+ a.firstName, a.lastName, b.city, b.state
+from Person a
+left join Address b
+ on a.personId = b.personId
