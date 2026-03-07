@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/ye21iin/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1251-average-selling-price](https://github.com/ye21iin/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ye21iin/leetcode/tree/master/1280-students-and-examinations) |
+| [1407-top-travellers](https://github.com/ye21iin/leetcode/tree/master/1407-top-travellers) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/ye21iin/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ye21iin/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ye21iin/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
