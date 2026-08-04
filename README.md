@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ye21iin/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ye21iin/leetcode/tree/master/0014-longest-common-prefix) |
+| [3731-find-missing-elements](https://github.com/ye21iin/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -88,8 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ye21iin/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ye21iin/leetcode/tree/master/0013-roman-to-integer) |
+| [3731-find-missing-elements](https://github.com/ye21iin/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ye21iin/leetcode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/ye21iin/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
