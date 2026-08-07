@@ -1,4 +1,6 @@
-select id, movie, description, rating
-from cinema
-where (mod(id,2) != 0) and (description != 'boring')
-order by 4 desc
+SELECT 
+    id, movie, description, rating 
+FROM Cinema
+WHERE description != 'boring' AND ID % 2 = 1
+ORDER BY 4 DESC
+;
